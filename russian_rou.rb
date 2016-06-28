@@ -102,3 +102,6 @@ if players[5][:is_shot]
 else
   p "Nice #{name} -- You made it to the last round!"
 end
+
+
+#writing a comment =)
